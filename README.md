@@ -1,14 +1,31 @@
 # Assessment
 
-For Statement 2:
-Download the csv file and save it in your desrired path.
+README for Statement 2
+==================================
 
-Load the Data :
+Overview:
+---------
+'Text_Analysis_(1).ipynb' is a Jupyter notebook designed for conducting text analysis through natural language processing (NLP). The notebook includes steps for preprocessing text data, possibly analyzing topics, generating word clouds, and visualizing data. It utilizes several Python libraries such as gensim, nltk, pyLDAvis, and others for in-depth text analysis and visualization.
 
-Execute the Python notebook Text_Analysis(1).ipynb
-change the file path to the path where you have saved the data (.xlsx file)  in step 2 
+Requirements:
+-------------
+- Python 3.x
+- Jupyter Notebook or JupyterLab environment
+- Python libraries: pandas, numpy, gensim, nltk, pyLDAvis, matplotlib, wordcloud
 
-For statement 3
+Installation:
+-------------
+1. Ensure Python and Jupyter are installed on your system.
+2. Install the required Python packages using pip:
+
+During the first run of the notebook, ensure that the nltk stopwords are downloaded as instructed in the first code cell.
+
+Usage:
+------
+1. Clone or download 'Text_Analysis_(1).ipynb' to your local machine.
+2. Open the notebook in your Jupyter environment.
+3. Execute the cells sequentially, from importing libraries and downloading necessary nltk resources to processing and analyzing the text data.
+
 
 README For Statement 3
 for auto_merging.ipynb
