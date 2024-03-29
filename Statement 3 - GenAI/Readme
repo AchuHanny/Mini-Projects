@@ -1,0 +1,32 @@
+README for auto_merging.ipynb
+=============================
+
+Overview:
+---------
+This Jupyter notebook is designed for the purpose of automatically processing documents. It begins with a step to load documents from a specified directory and likely includes further functionality for analyzing, merging, or otherwise manipulating these documents. 
+
+Requirements:
+-------------
+- Python 3.x
+- Jupyter Notebook or JupyterLab environment
+- llamacore library (for document loading and processing)
+
+Installation:
+-------------
+Ensure Python and Jupyter are installed on your system. You can then install the required Python packages using pip:
+
+pip install (required packages)
+
+
+------
+1. Place the documents you wish to process in a directory named './documents' relative to the notebook's location.
+2. Open the 'auto_merging.ipynb' notebook in your Jupyter environment.
+3. Execute the cells in order, following any instructions provided within the notebook for custom configurations or additional steps.
+4. The notebook will load and process the documents, with further actions and outputs depending on its coded functionalities.
+
+Note:
+-----
+This README provides a basic introduction based on the initial analysis of the notebook. Please refer to the notebook itself for detailed instructions and information on its full capabilities.
+
+
+
