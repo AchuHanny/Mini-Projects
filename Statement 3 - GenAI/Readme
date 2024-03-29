@@ -24,9 +24,35 @@ pip install (required packages)
 3. Execute the cells in order, following any instructions provided within the notebook for custom configurations or additional steps.
 4. The notebook will load and process the documents, with further actions and outputs depending on its coded functionalities.
 
-Note:
------
-This README provides a basic introduction based on the initial analysis of the notebook. Please refer to the notebook itself for detailed instructions and information on its full capabilities.
 
+
+README for Multi_agent.ipynb
+=============================
+
+Overview:
+---------
+'Multi_agent.ipynb' is a Jupyter notebook designed for operations involving multi-agent systems, 
+potentially including tasks such as document processing, indexing, and interactions with AI models, 
+particularly with OpenAI's APIs. 
+
+Requirements:
+-------------
+- Python 3.x
+- Jupyter Notebook or JupyterLab environment
+- Various Python packages including 'dotenv', 'llama_index', and potentially others for AI interactions (e.g., OpenAI's Python SDK)
+
+Installation:
+-------------
+1. Ensure Python and Jupyter are installed on your system.
+2. Install the required Python packages using pip:
+
+Adjust the installation command based on the actual dependencies used within the notebook.
+
+Usage:
+------
+1. Clone or download 'Multi_agent.ipynb' to your local machine.
+2. Place any required environment variables in a `.env` file located in the same directory as the notebook.
+3. Open the notebook in your Jupyter environment and execute the cells sequentially. You may need to configure certain cells based on your specific requirements or environment setup.
+4. The notebook's operations include document indexing, environmental setup, and possibly communicating with AI models or APIs.
 
 
